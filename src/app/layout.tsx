@@ -9,8 +9,8 @@ import { Toaster } from "@/components/ui/sonner";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Lira",
-  description: "A jira clone created for managing tasks!",
+  title: "Growthzee CRM",
+  description: "CRM for managing tasks!",
 };
 
 export default function RootLayout({
